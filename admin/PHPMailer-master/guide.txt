@@ -1,0 +1,7 @@
+Cấu trúc biến:
+
+$server_config = (object)[
+    'host' => 'smtp1.example.com',
+    'user' => 'user@example.com',
+
+];

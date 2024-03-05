@@ -1,0 +1,103 @@
+li{
+    list-style: none;
+}
+a,
+a:hover{
+    text-decoration: none;
+}
+.admin-title-top h1{
+    text-align: center;
+    font-size: 22px;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #ef0606;
+}
+.button-custom{
+    margin: 20px 0px;
+}
+.button-custom a{
+    background-color: #39b54a !important;
+    background: linear-gradient(180deg, #39b54a, #34aa44) !important;
+    border-color: #35a745;
+    color: #fff;
+    padding: 7px 15px;
+    border-radius: 5px;
+}
+.button-custom a:hover,
+.button-custom a:active,
+.button-custom a:focus{
+    background-color: #34a544 !important;
+    background: linear-gradient(180deg, #34a544, #2f9a3e) !important;
+    border-color: #35a745;
+    color: #fff !important;
+}
+.form-add-category {
+    margin: 30px 0px;
+}
+.form-category-product{
+    width: 50%;
+}
+.dropdowm-menu-list{
+    margin: 0;
+    padding: 0;
+}
+.list-action{
+    margin: 0;
+    padding: 0;
+}
+.list-action li{
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    background: red;
+    border-radius: 3px;
+    text-align: center;
+    line-height: 30px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+.list-action li a{
+    color: #fff;
+}
+.item-edit{
+    background: green !important;
+}
+.item-print{
+    background: #007bff !important;
+}
+.info-user ul li i{
+    margin-right: 5px;
+    color: #007bff;
+}
+.info-user ul li span{
+    color: red;
+    font-weight: 600;
+}
+.info-user ul{
+    margin: 0;
+    padding: 0;
+}
+.info-user ul li{
+    margin-bottom: 15px;
+}
+.infor-user-order{
+    margin-bottom: 50px;
+    margin-top: 30px;
+}
+
+.infor-user-order ul{
+    margin: 0;
+    padding: 0;
+}
+.infor-user-order ul li{
+    margin-bottom: 10px;
+}
+.info-list{
+    margin: 0;
+    padding: 0;
+}
+.infor-label{
+    float: left;
+    width: 180px;
+    color: red;
+}
